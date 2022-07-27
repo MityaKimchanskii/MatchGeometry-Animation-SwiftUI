@@ -11,6 +11,7 @@
 		3BB437002891131A00E3A969 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BB436FF2891131A00E3A969 /* ContentView.swift */; };
 		3BB437022891131B00E3A969 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BB437012891131B00E3A969 /* Assets.xcassets */; };
 		3BB437052891131B00E3A969 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BB437042891131B00E3A969 /* Preview Assets.xcassets */; };
+		3BB4370C2891134300E3A969 /* FooView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BB4370B2891134300E3A969 /* FooView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		3BB436FF2891131A00E3A969 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3BB437012891131B00E3A969 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3BB437042891131B00E3A969 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3BB4370B2891134300E3A969 /* FooView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FooView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				3BB436FD2891131A00E3A969 /* MatchGeometry_SwiftUIApp.swift */,
 				3BB436FF2891131A00E3A969 /* ContentView.swift */,
+				3BB4370B2891134300E3A969 /* FooView.swift */,
 				3BB437012891131B00E3A969 /* Assets.xcassets */,
 				3BB437032891131B00E3A969 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3BB437002891131A00E3A969 /* ContentView.swift in Sources */,
+				3BB4370C2891134300E3A969 /* FooView.swift in Sources */,
 				3BB436FE2891131A00E3A969 /* MatchGeometry_SwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
